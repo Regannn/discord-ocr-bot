@@ -18,6 +18,8 @@ To set up the Discord OCR Bot locally or on your server:
 
 ```
    git clone https://github.com/your/repository.git
+```
+```
    cd discord-ocr-bot
 ```
 
@@ -35,7 +37,7 @@ To set up the Discord OCR Bot locally or on your server:
 node .
 ```
 
-##Usage
+## Usage
 -  **Commands:**
   - -ocr: Perform OCR on a PNG image uploaded to an OCR-enabled channel.
   - -addchannel <channelId>: Add a channel to the OCR-enabled list.
