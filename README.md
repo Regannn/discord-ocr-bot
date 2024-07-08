@@ -38,7 +38,7 @@ node .
 ```
 
 ## Usage
--  **Commands:**
+- **Commands:**
   - -ocr: Perform OCR on a PNG image uploaded to an OCR-enabled channel.
   - -addchannel <channelId>: Add a channel to the OCR-enabled list.
   - -removechannel <channelId>: Remove a channel from the OCR-enabled list.
